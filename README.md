@@ -6,7 +6,7 @@
 <br clear="both"> 
 
 # 💫 About Me:
-😇 Hello, I'm Dinesh!<br>🤓 I'm Good at Full-Stack Web Development and App Development<br>❤️ I have a deep love for Science, Learning, and Music<br>🤝 I'm eager to collaborate on great idea's<br>🌱 Learning and Improving skills<br>
+😇 Hello, I'm Dinesh!<br>🤓 I'm Good at Full-Stack Web Development and App Development<br>❤️ I have a deep love for Science, Learning and Music<br>🤝 I'm eager to collaborate on great idea's<br>🌱 Learning and Improving skills<br>
 
 
 ## 🌐 Socials:
