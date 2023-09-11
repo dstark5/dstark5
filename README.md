@@ -1,11 +1,11 @@
 <br clear="both">
 <div align="center">  
 <img height="225" src="https://media.tenor.com/hzVy-nB15DoAAAAi/music-pokemon.gif"  /> 
-<h2 align="center">hello 👋</h2>
-<h3 align="center">I`m Dinesh <span><img width="20" height="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt=" 😇"></h3>
-<h4 align="center">I like to code 🚀</h4>
+<h2 align="center">Hello 👋</h2>
+<h3 align="center">I`m Dinesh <span><img width="20" height="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt=" 😇"></span></h3>
+<h4 align="center">I like to code <span><img width="20" height="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt=" 🚀"></span></h4>
 <h5 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=15&duration=2500&pause=1300&color=1287A8&center=true&vCenter=true&width=450&lines=+Good+at+Web+and+App+Development;Passionate+about+Linux+%2CSoftware+and+Web+development;Loves+to+read+books+and+listen+to+music;Embracing+the+open+source+community" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=15&duration=2500&pause=1300&color=1287A8&center=true&vCenter=true&width=450&lines=+Good+at+Web+and+App+Development;Passionate+about+Linux+%2C+Software+and+Web+development;Loves+to+read+books+and+listen+to+music;Embracing+the+open+source+community" alt="Typing SVG"/>
 <h5>
 </div>
 
